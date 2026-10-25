@@ -16,7 +16,7 @@
 const hasan = {
   name: "Hasan Ali",
   role: "Full Stack Developer Trainee @ Bytes4Future",
-  studying: "Software Engineering @ Tishreen University, Lattakia 🇸🇾",
+  studying: "Software Engineering @ Tishreen University(aka: Lattakia University), Lattakia 🇸🇾",
   languages: ["Arabic", "English"],
   currentStack: ["JavaScript", "React", "Node.js"],
   alsoKnows: ["C#", ".NET Framework", "C++", "Flutter"],
@@ -37,7 +37,7 @@ const hasan = {
 <div align="center">
 **Frontend**
  
-<img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,dart,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 **Backend & Languages**
  
 <img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet,cpp" />
@@ -58,7 +58,7 @@ const hasan = {
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
-      <a href="https://github.com/YOUR_USERNAME/YOUR_NESTIFY_REPO">🔗 View Project</a>
+      <a href="https://github.com/HasanAlii73/nestify-admin">🔗 View Project</a>
     </td>
     <td width="50%" valign="top">
       <h3>🛍️ ShopFlow</h3>
@@ -68,27 +68,28 @@ const hasan = {
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
-      <a href="https://github.com/YOUR_USERNAME/YOUR_SHOPFLOW_REPO">🔗 View Project</a>
+      <a href="https://github.com/HasanAlii73/Bytes4Future-Projects/tree/main/FinalPoject-powerup">🔗 View Project</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📱 Flutter Team Project</h3>
-      <p>A cross-platform mobile app built with a team of four, from concept to implementation.</p>
+      <h3>🌤️ Weather App</h3>
+      <p>Weather application used to show forecast from OpenWeather API.</p>
       <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
-      <a href="https://github.com/YOUR_USERNAME/YOUR_FLUTTER_REPO">🔗 View Project</a>
+      <a href="https://github.com/HasanAlii73/Weather-App">🔗 View Project</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🚗 Car Rental System Analysis</h3>
-      <p>Full systems analysis for a car rental management system: use cases, class & sequence diagrams, and documentation.</p>
+      <h3>🚗 Driving and Vehicles License Department (DVLD) System</h3>
+      <p>Driving School Management System Built with C# Windows Forms and Microsoft SQL Server A complete desktop application designed to streamline operations in a driving school, covering license issuance, user management, and test scheduling. </p>
       <p>
         <img src="https://img.shields.io/badge/UML-FABD14?style=flat-square&logo=uml&logoColor=black" />
         <img src="https://img.shields.io/badge/Systems%20Analysis-555?style=flat-square" />
       </p>
-      <a href="https://github.com/YOUR_USERNAME/YOUR_ANALYSIS_REPO">🔗 View Project</a>
+      <a href="https://github.com/HasanAlii73/Driving-School-Management-System">🔗 View Project</a>
     </td>
   </tr>
 </table>
@@ -99,16 +100,35 @@ const hasan = {
 <div align="center">
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HasanAlii73&theme=tokyonight&hide_border=true&background=0d1117" />
 </div>
 ---
  
 ## 🐍 Contribution Snake
  
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/HasanAlii73/HasanAlii73/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
-> 💡 **Optional:** this needs a small GitHub Action. Search for **Platane/snk** on GitHub and follow its setup. If you skip it, just delete this section.
+>- uses: Platane/snk@v3
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ github.HasanAlii73 }}
+
+    # list of files to generate.
+    # one file per line. Each output can be customized with options as query string.
+    #
+    #  supported options:
+    #  - palette:           A preset of color, one of [github, github-dark, github-light]
+    #  - color_snake:       Color of the snake
+    #  - color_dots:        Coma separated list of dots color.
+    #                       The first one is 0 contribution, then it goes from the low contribution to the highest.
+    #                       Exactly 5 colors are expected.
+    #  - color_background:  Color of the background (for gif only)
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
  
 ---
  
@@ -137,7 +157,7 @@ const hasan = {
 ## 🤝 Let's Connect
  
 <div align="center">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/hasan-ali-88bba2262"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ha1338967@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
  
