@@ -4,8 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=console.log(%22Hello%2C+World!%22)%3B;Turning+coffee+into+React+components+%E2%98%95;Learning+by+building%2C+one+commit+at+a+time;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7+%7C+Hello+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 <br/>
-![Profile Views](https://komarev.com/ghpvc/?username=HasanAlii73&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/HasanAlii73?label=Followers&style=for-the-badge&color=36BCF7&logo=github)
+  <img src="https://komarev.com/ghpvc/?username=HasanAlii73&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/HasanAlii73?label=Followers&style=for-the-badge&color=36BCF7&logo=github"/>
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=HasanAlii73&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/HasanAlii73?label=Followers&style=for-the-badge&color=36BCF7&logo=github) -->
  
 </div>
 ---
